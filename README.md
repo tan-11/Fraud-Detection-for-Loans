@@ -1,6 +1,5 @@
-# Loan Repayment Challenge
+# Fraud Loan Detection
 
-This repository contains my submission for the MoneyLion technical assessment.  
 The goal of this project is to predict the loan risk of applicants using three datasets:
 
 - **loan.csv** – loan details and applicant information  
@@ -48,5 +47,6 @@ This is the final XGBoost model to predict the loan fraud risk, and perform clas
 
 ## Merge dataset
 **File:** `data\combined_df.csv`
+
 
 This is the processed and merged dataset from the datasets given by this assessment.
